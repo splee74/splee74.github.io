@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.splee74.sudoku",
+      "sha256_cert_fingerprints": [
+        "6B:6D:AC:35:73:26:AB:00:44:C5:E3:3B:ED:23:77:86:64:56:41:D6:94:21:F0:36:5E:C3:A2:9F:BB:91:BE:6C"
+      ]
+    }
+  }
+]
